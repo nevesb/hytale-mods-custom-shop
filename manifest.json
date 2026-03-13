@@ -1,0 +1,15 @@
+{
+  "Group": "HytaleModdingManual",
+  "Name": "NPCShopsAndTrading",
+  "Version": "1.0.0",
+  "Description": "Feran Longtooth merchant that trades Enchanted Fruit for Enchanted Saplings",
+  "Authors": [
+    {
+      "Name": "HytaleModdingManual"
+    }
+  ],
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "IncludesAssetPack": false,
+  "TargetServerVersion": "2026.02.19-1a311a592"
+}
