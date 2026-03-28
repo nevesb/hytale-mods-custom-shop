@@ -16,7 +16,7 @@
     {
       "Type": "Fixed",
       "Trade": {
-        "Output": { "ItemId": "Block_Crystal_Glow", "Quantity": 1 },
+        "Output": { "ItemId": "Ore_Crystal_Glow", "Quantity": 1 },
         "Input": [{ "ItemId": "Plant_Fruit_Enchanted", "Quantity": 10 }],
         "Stock": 3
       }
